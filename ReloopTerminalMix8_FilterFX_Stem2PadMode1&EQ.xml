@@ -70,7 +70,7 @@
     </control>
 
 
-<!-- Stem EQ gain  -->
+<!-- Stem EQ gain  (credits: djkoray01) -->
  <!-- CHANNEL 1  -->
   <control channel="1" event_type="Control Change" data_type="Absolute 7" control="74">
         <userio event="click">
